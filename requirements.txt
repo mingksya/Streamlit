@@ -138,7 +138,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 python-json-logger==3.3.0
 python-magic-bin==0.4.14
-pytube @ git+https://github.com/pytube/pytube@a32fff39058a6f7e5e59ecd06a7467b71197ce35
 pytz==2025.2
 pywin32==310
 pywinpty==2.0.15
